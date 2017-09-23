@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400');
 
 .container {
-    padding-right: 0px 15px;
+    padding: 0px 15px;
     margin: 0 auto;
     max-width: 800px;
   }
